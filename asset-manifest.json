@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ligths/static/css/main.b02d0f59.css",
+    "main.js": "/ligths/static/js/main.f021bd66.js",
+    "static/media/istockphoto-1361408039-640_adpp_is.mp4": "/ligths/static/media/istockphoto-1361408039-640_adpp_is.983f2a4f7460adbc51da.mp4",
+    "static/media/jpg": "/ligths/static/media/01fc7bf48a2209522846f381f974b898.07b87a52b7855fa8fc42.jpg",
+    "index.html": "/ligths/index.html",
+    "main.b02d0f59.css.map": "/ligths/static/css/main.b02d0f59.css.map",
+    "main.f021bd66.js.map": "/ligths/static/js/main.f021bd66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02d0f59.css",
+    "static/js/main.f021bd66.js"
+  ]
+}
