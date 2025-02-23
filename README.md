@@ -1,1 +1,0 @@
-<a href=''>Live demo<a/>
